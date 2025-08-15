@@ -1,0 +1,15 @@
+{
+  "name": "n8n-free",
+  "version": "1.0.0",
+  "description": "n8n automation workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start --tunnel"
+  },
+  "dependencies": {
+    "n8n": "^1.106.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
